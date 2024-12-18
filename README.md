@@ -3,7 +3,7 @@ Those code examples about design pattern have the purpose of personal use, to ea
 
 The major source of the examples is a Youtube channel of [DoableDanny](https://www.youtube.com/@doabledanny/videos), he's a very good developer. I suggest to all to buy 📒his book about design pattern 📒 , it's very clear.
 
-# Proxy patternn
+# Proxy pattern
  The proxy pattern provide a proxy (delega, procura, procuratore) or agent to control access to another object with adds some functionality like caching, logging, lazy loading, access control without change client code. 
 
 **CLIENT > PROXY > TARGET**
